@@ -15,10 +15,10 @@
 ### Website Uses jwt token to authenticate user 
 
 # For Testing Purpose Dummy Email And Password Provided
-Reasons | Email | Pass
--------  ------ -----
-Login As Admin | saiketsd23@gmail.com | 123456
-Login As Normal User | saiket2@gmail.com | 123456
+Reasons                               | Email                                | Pass
+-------------------------------------- -------------------------------------- -------
+Login As Admin                        | saiketsd23@gmail.com                 | 123456
+Login As Normal User                  | saiket2@gmail.com                    | 123456
 Make Payment with Real Paypal Gateway | sb-zhao38337265@personal.example.com | SYKET100
 
 
