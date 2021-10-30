@@ -20,10 +20,4 @@
 | Login As Admin                        | saiketsd23@gmail.com                 | 123456 |
 | Login As Normal User                  | saiket2@gmail.com                    | 123456 |
 | Make Payment with Real Paypal Gateway | sb-zhao38337265@personal.example.com | SYKET100 |
-
-
-
-| Reasons | Email |
-| --- | --- |
-| `Login As Admin ` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| # Feel Free To Create And Use Your Own Email And Password |
