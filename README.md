@@ -23,4 +23,4 @@
 | Make Payment with Real Paypal Gateway | sb-zhao38337265@personal.example.com | SYKET100 |
  ## Feel Free To Create And Use Your Own Email And Password 
 
-# I something Not Work Please Refresh And Wait For Respond 
+# If something Not Work Please Refresh And Wait For Respond 
